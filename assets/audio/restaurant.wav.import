@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/restaurant.wav-48544cc9308840b27a63723082f490ed.sample"
+
+[deps]
+
+source_file="res://assets/audio/restaurant.wav"
+dest_files=[ "res://.import/restaurant.wav-48544cc9308840b27a63723082f490ed.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

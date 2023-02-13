@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/George Street Shuffle.mp3-1c0f5a2c7a9d5c22643fe6d3207ae5ab.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/George Street Shuffle.mp3"
+dest_files=[ "res://.import/George Street Shuffle.mp3-1c0f5a2c7a9d5c22643fe6d3207ae5ab.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
